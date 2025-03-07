@@ -4,3 +4,5 @@ Hello World
 朝活は最高だ！
 git diff
 git tutorial
+git commit --amend
+
