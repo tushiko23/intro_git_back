@@ -2,3 +2,5 @@
 付随するのファイル名をファイルに記述します
 Hello World
 朝活は最高だ！
+git diff
+git tutorial
