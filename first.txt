@@ -7,3 +7,4 @@ git tutorial
 git commit --amend
 git push します
 practice tag
+注釈つきタグ
