@@ -3,3 +3,4 @@ Hello World Part5!
 pullの時にコンフリクトを起こします git conflict_1
 addの際にコンフリクトを起こす
 mainでリモートからリモートでコンフリクトを起こす
+
