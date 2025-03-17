@@ -6,8 +6,3 @@ git diff
 git tutorial
 git commit --amend
 git push します
-practice tag
-注釈つきタグ
-練習用にもう一度作成
-
-git fetch用に再度作成しました
