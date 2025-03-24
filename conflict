@@ -1,6 +1,3 @@
-Hello World Part4! コンフリクトを起こす
-Hello World Part5!
-pullの時にコンフリクトを起こします git conflict_1
-addの際にコンフリクトを起こす
-mainでリモートからリモートでコンフリクトを起こす
+Conflict merged on main branch
+コンフリクトを起こさせる 
 
